@@ -214,7 +214,7 @@ Running 2,000 simulations without altitude/heat modifiers shows France benefits 
 
 ## 📝 Licence
 
-This project is released under the MIT Licence. You are free to use, modify, and distribute it for personal or educational purposes.
+You are free to use, modify, and distribute it for personal or educational purposes, but not pose as your own.
 
 ---
 
